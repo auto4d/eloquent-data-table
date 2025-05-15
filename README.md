@@ -165,3 +165,4 @@ class UserController {
 }
 ```
 # eloquent-data-table
+# laravel-meta-tags
